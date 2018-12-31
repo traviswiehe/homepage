@@ -1,0 +1,39 @@
+body {
+	background-color: #A0D5F3;
+	font-size: 20px;
+	font-family:"Times New Roman", Georgia, Serif;
+	margin-top:20px;
+	
+}
+
+a:link {
+	color: blue;
+
+}
+a:visited{
+	color:red;
+	
+}
+a:hover{
+	color:green;
+
+}
+.important{
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 24px;
+}
+
+table.one, th, tr, td{
+    font-size: 20px;
+	border: 20 ;
+	bordercolor="#000000";
+	cellpadding="10";
+	cellspacing="20";
+    border-collapse: collapse;
+}
+
+
+.BottomFont {
+	font-size: 24px;
+}
